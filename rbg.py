@@ -20,6 +20,7 @@ ma1=max(c)
 f.append(ma1)
 ma2=max(d)
 f.append(ma2)
+ma3=max(e)
 f.append(ma3)
 if(f==b[0]):
     print("YES")
